@@ -1,0 +1,7 @@
+2,2345678901234,Ibuprofen,"Anti-inflammatory painkiller",[1234567890123;1236542864378],"200mg up to 4 times a day"
+3,3456789012345,Paracetamol,"Mild pain and fever",[5348901239806],"500mg every 4-6 hours"
+4,4567890123456,Amoxicillin,"Antibiotic used to treat infections",[],"500mg three times a day"
+5,1236542864378,Oxycontin,"prescribed for relief of moderate to severe pain",[5347981230985],"80mg 3 times a day"
+6,5347981230985,Benzodiazepine,"Depressant that produce sedation and hypnosis,[1236542864378],"25 mg 3 times a day"
+7,2136543482341,Fluoxetine,"Antidepressant to treat depression",[5348901239806],"20mg once a day"
+8,5348901239806,Phenelzine,"Monoamine oxidase inhibitor to treat depression",[2136543482341;3456789012345;2345678901234],"15mg 6 times a day"
